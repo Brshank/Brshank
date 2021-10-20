@@ -2,13 +2,14 @@
 ### 🌱 I’m currently learning Python for AI and also C++
 ### 🤔 I’m looking for help with Algorithms
 ### 💬 Ask me about whatever you want
-### 📫 How to reach me: https://www.linkedin.com/in/brshank-singh-negi/
+### 📫 How to reach me: 
 
-## &#x1f4c8; GitHub Stats
+<a href="https://linkedin.com/in/brshank-singh-negi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Brshank" height="30" width="40" /></a>
+
+📊 &nbsp;## &#x1f4c8; GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brshank&&count_private=true&&show_icons=true&&theme=synthwave" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brshank&layout=compact&&theme=synthwave" />
 
-📊 &nbsp;**This week I spent my time on**
 
 
 <!--
@@ -25,3 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img alt='analytics' src='https://profile-counter.glitch.me/Brshank/count.svg' width='0px'>
+
+<a href="mailto:brsshanksn@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Yahoo-purple?style=for-the-badge&logo=yahoo&logoColor=white" />
+</a>
