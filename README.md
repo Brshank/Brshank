@@ -9,7 +9,7 @@
 
 <a href="https://linkedin.com/in/brshank-singh-negi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Brshank" height="30" width="40" /></a>
 
-📊 &nbsp;
+ &nbsp;
 ## &#x1f4c8; GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brshank&&count_private=true&&show_icons=true&&theme=synthwave" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brshank&layout=compact&&theme=synthwave" />
