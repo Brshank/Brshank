@@ -2,10 +2,9 @@
 ### 🌱 I’m currently learning Python for AI and also C++
 ### 🤔 I’m looking for help with Algorithms
 ### 💬 Ask me about whatever you want
-### 📫 How to reach me: https://www.linkedin.com/in/brshank-singh-negi-66b1311b7/
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JayJM1011&&show_icons=true&&theme=radical" />
+### 📫 How to reach me: https://www.linkedin.com/in/brshank-singh-negi/
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Brshank&&show_icons=true&&theme=radical" />
 <!--
-**JayJM1011/JayJM1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
