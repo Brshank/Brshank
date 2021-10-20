@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 <img alt='analytics' src='https://profile-counter.glitch.me/Brshank/count.svg' width='0px'>
 
 <a href="mailto:brsshanksn@gmail.com" target="_blank">
-    <img src="https://www.svgrepo.com/show/223047/gmail.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </a>
