@@ -3,7 +3,10 @@
 ### 🤔 I’m looking for help with Algorithms
 ### 💬 Ask me about whatever you want
 ### 📫 How to reach me: https://www.linkedin.com/in/brshank-singh-negi/
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Brshank&&show_icons=true&&theme=radical" />
+
+## &#x1f4c8; GitHub Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Brshank&&count_private=true&&show_icons=true&&theme=synthwave" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brshank&layout=compact&&theme=synthwave" />
 
 📊 &nbsp;**This week I spent my time on**
 
