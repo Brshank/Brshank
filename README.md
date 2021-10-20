@@ -4,6 +4,10 @@
 ### 💬 Ask me about whatever you want
 ### 📫 How to reach me: https://www.linkedin.com/in/brshank-singh-negi/
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brshank&&show_icons=true&&theme=radical" />
+
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Brshank&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 <!--
 
 Here are some ideas to get you started:
@@ -17,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img alt='analytics' src='https://profile-counter.glitch.me/Brshank/count.svg' width='0px'>
