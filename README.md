@@ -1,4 +1,4 @@
-### Hey there! <aimg src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### 🌱 I’m currently learning Python for AI and also C++
 ### 🤔 I’m looking for help with Algorithms
 ### 💬 Ask me about whatever you want
