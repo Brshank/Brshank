@@ -25,7 +25,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/brshank-singh-negi/">Brshank Singh Negi</a></b>.
-    <br>I'm a Artificial Intelligence Undergraduate Student at NMIMS from India <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/in.svg">.<br>
+    <br>I'm a Artificial Intelligence Undergraduate Student at NMIMS from India <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/in.svg" width="30">.<br>
 
 </samp>
 
@@ -44,17 +44,16 @@
 
 
   ----
+  <a href="https://github.com/Brshank/ScotlandYard">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Brshank&repo=ScotlandYard&theme=midnight-purple" />
+</a>
   <a href="https://github.com/Brshank/Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Brshank&repo=Python&theme=midnight-purple" />
-</a>
-  <a href="https://github.com/Brshank/cpp">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Brshank&repo=cpp&theme=tokyonight" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Brshank&repo=Python&theme=tokyonight" />
+
   <a href="https://github.com/Brshank/AI">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Brshank&repo=AI&theme=tokyonight" />
-</a>
-   <a href="https://github.com/Brshank/ScotlandYard">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Brshank&repo=ScotlandYard&theme=midnight-purple" />
+ <a href="https://github.com/Brshank/cpp">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Brshank&repo=cpp&theme=midnight-purple" />
 </a>
 
 
