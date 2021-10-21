@@ -1,30 +1,15 @@
-### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
--------------
 
-### 🌱 I’m currently learning Python for AI and also C++
-### 🤔 I’m looking for help with Algorithms
-### 😄 Pronouns:He/Him
-### 💬 Ask me about whatever you want
-### 📫 How to reach me: 
-
-<a href="https://linkedin.com/in/brshank-singh-negi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Brshank" height="30" width="40" />
-</a>
-
-<a href="mailto:brsshanksn@gmail.com" target="_blank">
-    <img src="https://www.svgrepo.com/show/223047/gmail.svg" width="25px">
-</a>
- 
  &nbsp;
 ## &#x1f4c8; GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brshank&&count_private=true&&show_icons=true&&theme=synthwave" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brshank&layout=compact&&theme=synthwave" />
 
 <img alt='analytics' src='https://profile-counter.glitch.me/Brshank/count.svg' width='0px'>
-
+-------
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/brshank-singh-negi/">Brshank Singh Negi</a></b>.
+    Hello there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/brshank-singh-negi/">Brshank Singh Negi</a></b>.
     <br>I'm a Artificial Intelligence Undergraduate Student at NMIMS from India <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/in.svg" width="30">.<br>
 
 </samp>
@@ -78,7 +63,13 @@
 
 </p> 
   
+### 📫 How to reach me: 
+<a href="https://linkedin.com/in/brshank-singh-negi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Brshank" height="30" width="40" />
+</a>
 
+<a href="mailto:brsshanksn@gmail.com" target="_blank">
+    <img src="https://www.svgrepo.com/show/223047/gmail.svg" width="25px">
+</a>
 
 </samp>
 </details>
