@@ -13,7 +13,7 @@
 
 <details align="center">
 
-<summary> <b> <samp> Light bonfire </samp></b></summary>
+<summary> <b> <samp><img src="https://cdn.discordapp.com/attachments/719902652246523904/720860562048811008/splash.gif" width="20"/> Light bonfire </samp></b></summary>
 <samp>
  <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
 
