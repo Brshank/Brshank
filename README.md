@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/brshank-singh-negi/">Brshank Singh Negi</a></b>.
-    <br>I'm a Artificial Intelligence Undergraduate Student at NMIMS from India <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/in.svg" width="30">.<br>
+    <br>I'm an Artificial Intelligence Undergraduate Student at NMIMS from India <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/in.svg" width="30">.<br>
 
 </samp>
 
@@ -41,8 +41,8 @@
 
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="http://rust-lang.org/logos/rust-logo-64x64.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+
 
   ## My activities
 <a href="https://github.com/Brshank/">
@@ -52,9 +52,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brshank&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
  
-  ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg)
-  
-  
   ## My Profile Visited-
  <a img align="center" alt='analytics' src="https://profile-counter.glitch.me/Brshank/count.svg" width='100px'> 
   </a>  
