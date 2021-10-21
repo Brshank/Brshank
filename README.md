@@ -52,8 +52,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brshank&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
  
-  ## My Profile Clicked
- <a img align="center" alt='analytics' src="https://profile-counter.glitch.me/Brshank/count.svg" width='150px'> 
+  ## My Profile Visited-
+ <a img align="center" alt='analytics' src="https://profile-counter.glitch.me/Brshank/count.svg" width='100px'> 
   </a>  
 </p> 
 
