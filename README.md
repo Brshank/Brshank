@@ -1,8 +1,8 @@
 
  &nbsp;
 ## &#x1f4c8; GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Brshank&&count_private=true&&show_icons=true&&theme=synthwave" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brshank&layout=compact&&theme=synthwave" />
+<img align="center" src="&&count_private=true&&show_icons=true&&theme=synthwave" />
+<img align="center" src="&layout=compact&&theme=synthwave" />
 
 <img alt='analytics' src='https://profile-counter.glitch.me/Brshank/count.svg' width='0px'>
 -------
@@ -55,20 +55,19 @@
   ## My activities
 
 <a href="https://github.com/Pepyn0/github-readme-stats">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=holychicken99&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true" />
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Brshank&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
 <a href="https://github.com/holychicken99/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holychicken99&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brshank&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 
 </p> 
   
 ### 📫 How to reach me: 
-<a href="https://linkedin.com/in/brshank-singh-negi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Brshank" height="30" width="40" />
-</a>
+<a href="https://linkedin.com/in/brshank-singh-negi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Brshank" height="30" width="40" >&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:brsshanksn@gmail.com" target="_blank">
-    <img src="https://www.svgrepo.com/show/223047/gmail.svg" width="25px">
+<href="mailto:brsshanksn@gmail.com" target="_blank">
+    <img src="https://www.svgrepo.com/show/223047/gmail.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 
 </samp>
