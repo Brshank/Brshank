@@ -1,6 +1,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brshank&&show_icons=true&&theme=chartreuse-dark&&include_all_commits=true&&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brshank&&show_icons=true&&theme=highcontrast" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Brshank&&show_icons=true&&theme=vision-friendly-dark&&layout=compact" />
 
 
 
@@ -52,8 +50,7 @@
 
   ## My activities
 
-<a href="https://github.com/Pepyn0/github-readme-stats">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Brshank&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true" />
+<a img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Brshank&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
 <a href="https://github.com/Brshank/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brshank&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
