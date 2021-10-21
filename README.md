@@ -1,11 +1,7 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Brshank&&show_icons=true&&theme=chartreuse-dark&&include_all_commits=true&&count_private=true" />
-
-
-
 <p align="center">
   <br>
   <samp>
-    Hello there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/brshank-singh-negi/">Brshank Singh Negi</a></b>.
+    Hello there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/brshank-singh-negi/">`Brshank Singh Negi`</a></b>.
     <br>I'm a Artificial Intelligence Undergraduate Student at NMIMS from India <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/in.svg" width="50">.<br>
 
 </samp>
