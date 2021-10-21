@@ -52,6 +52,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brshank&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
  
+  ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg)
+  
+  
   ## My Profile Visited-
  <a img align="center" alt='analytics' src="https://profile-counter.glitch.me/Brshank/count.svg" width='100px'> 
   </a>  
