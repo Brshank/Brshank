@@ -45,15 +45,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 
   ## My activities
-
-<a href="https://github.com/Brshank/" img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Brshank&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true" />
-
+<a href="https://github.com/Brshank/">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Brshank&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true" />
+</a>
 <a href="https://github.com/Brshank/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brshank&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
  
-   
-    
   ## My Profile Clicked
  <a img align="center" alt='analytics' src="https://profile-counter.glitch.me/Brshank/count.svg" width='150px'> 
   </a>  
