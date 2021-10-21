@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/brshank-singh-negi/">Brshank Singh Negi</a></b>.
-    <br>I'm a Artificial Intelligence Undergraduate Student at NMIMS from India <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/in.svg" width="50">.<br>
+    <br>I'm a Artificial Intelligence Undergraduate Student at NMIMS from India <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/in.svg" width="30">.<br>
 
 </samp>
 
@@ -47,7 +47,7 @@
   ## My activities
 
 <a href="https://github.com/Brshank/" img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Brshank&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true" />
-</a>
+
 <a href="https://github.com/Brshank/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brshank&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
