@@ -51,6 +51,11 @@
 <a href="https://github.com/Brshank/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brshank&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
+  
+### Watch my contribution graph get eaten by the snake 🐍
+
+<!-- platane/snk works, it just puts it on a new branch -->
+ ![Brshank snake SVG](https://github.com/Brshank/Brshank/blob/output/github-contribution-grid-snake.svg) 
  
   ## My Profile Visited-
   
