@@ -53,11 +53,10 @@
 </a>
  
   ## My Profile Visited-
- <a img align="center" alt='analytics' src="https://profile-counter.glitch.me/Brshank/count.svg" width='100px'> 
-  </a>  
+  
 </p> 
 
- <img alt='analytics' src='https://profile-counter.glitch.me/Brshank/count.svg' width='150px'>
+ <img alt='analytics' src='https://profile-counter.glitch.me/Brshank/count.svg' width='260px'>
     
 ### 📫 How to reach me: 
 <a href="https://linkedin.com/in/brshank-singh-negi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Brshank" height="30" width="40" />
