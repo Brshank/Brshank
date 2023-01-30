@@ -24,11 +24,11 @@
   <a href="https://github.com/Brshank/ScotlandYard">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Brshank&repo=ScotlandYard&theme=midnight-purple" />
 </a>
-  <a href="https://github.com/Brshank/Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Brshank&repo=Python&theme=tokyonight" />
+  <a href="https://github.com/Brshank/Satellite-Drainage_SIP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Brshank&repo=Satellite-Drainage_SIP&theme=tokyonight" />
 
-  <a href="https://github.com/Brshank/AI">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Brshank&repo=AI&theme=tokyonight" />
+  <a href="https://github.com/Brshank/Disaster-Tweets-Classifcation">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Brshank&repo=Disaster-Tweets-Classifcation&theme=tokyonight" />
  <a href="https://github.com/Brshank/cpp">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Brshank&repo=cpp&theme=midnight-purple" />
 </a>
